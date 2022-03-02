@@ -10,7 +10,7 @@ Projeto onde eu crio vários cards que se utilizam das funcionalidades básicas 
 ### Clone o repositório😎
 
 ```
-git clone 
+git clone https://github.com/jovimoura/fundamentos-react
 ```
 
 ### Acesse o diretorio🤓
